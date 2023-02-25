@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "react": "^18.2.0",
+    "typescript": "^4.9.5"
+  },
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  },
+  "name": "typescript-react-node-todolist",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KIMTAEKJU/TypeScript-React-Node-ToDoList.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KIMTAEKJU/TypeScript-React-Node-ToDoList/issues"
+  },
+  "homepage": "https://github.com/KIMTAEKJU/TypeScript-React-Node-ToDoList#readme",
+  "description": ""
+}
